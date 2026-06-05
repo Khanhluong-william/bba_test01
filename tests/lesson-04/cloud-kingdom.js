@@ -1,4 +1,6 @@
+// Khai báo powerUp
 let powerUp = "dfsdf";
+// Tối ưu code: không cần viết thêm 1 dòng else nữa
 let effect = "Unknow power-up";
 
 if(powerUp === 'mushroom') {
